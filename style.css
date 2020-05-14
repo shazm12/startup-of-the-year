@@ -13,6 +13,12 @@ html {
 h1 {
 	color:#2b84ad;
 }
+
+.animate__fadeInUp {
+	animation-duration: 4s;
+
+}
+
 hr {
 	border-color: beige;
 	max-width: 65px;
@@ -36,6 +42,7 @@ hr {
 	background-color: #F34D0F;
 	border-color: #F34D0F;
 	transition: all 2s;
+	animation-duration: 4s;
 }
 .btn-dark:hover {
 	background-color: #C63600;
